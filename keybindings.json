@@ -1,0 +1,11 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+	{
+		"key": "f11",
+		"command": "workbench.action.toggleFullScreen"
+	},
+	{
+		"key": "f11",
+		"command": "-workbench.action.toggleFullScreen"
+	}
+]

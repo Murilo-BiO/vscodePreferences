@@ -1,0 +1,123 @@
+{
+	"window.menuBarVisibility": "toggle",
+	"workbench.iconTheme": "eq-material-theme-icons-palenight",
+	"workbench.colorTheme": "Material Theme Palenight High Contrast",
+	"php.suggest.basic": false,
+	"emmet.includeLanguages": {
+		"blade": "html",
+		"emmet": "html",
+		"vue": "html",
+		"AMPscript": "html"
+	},
+	"C_Cpp.errorSquiggles": "Disabled",
+	"C_Cpp.intelliSenseEngineFallback": "Disabled",
+	"files.associations": {
+		"*.conf": "rathenascript",
+		"*.yaml.dist": "yaml",
+		"*.amp": "AMPscript"
+	},
+	"java.home": "C:\\Program Files\\JDK",
+	"java.errors.incompleteClasspath.severity": "ignore",
+	"team.showWelcomeMessage": false,
+	"terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+	"files.eol": "\n",
+	"editor.wordBasedSuggestions": false,
+	"C_Cpp.navigation.length": 190,
+	"[rathenascript]": {
+		"files.encoding": "iso88591"
+	},
+	"[c]": {
+		"files.encoding": "iso88591"
+	},
+	"emmet.triggerExpansionOnTab": true,
+	"window.zoomLevel": 0,
+	"npm.enableScriptExplorer": true,
+	"editor.fontFamily": "'Ubuntu Mono', Consolas, 'Courier New', monospace",
+	"editor.lineHeight": 40,
+	"workbench.statusBar.feedback.visible": false,
+	"editor.renderControlCharacters": false,
+	"editor.formatOnPaste": false,
+	"editor.formatOnSave": false,
+	"editor.formatOnType": false,
+	"workbench.activityBar.visible": true,
+	"javascript.preferences.quoteStyle": "single",
+	"prettier.singleQuote": true,
+	"materialTheme.fixIconsRunning": false,
+	"gitlens.advanced.messages": {
+		"suppressShowKeyBindingsNotice": true
+	},
+	"editor.snippetSuggestions": "top",
+	"html.format.indentInnerHtml": true,
+	"files.autoSave": "afterDelay",
+	"files.autoSaveDelay": 500,
+	"editor.wrappingIndent": "indent",
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"terminal.integrated.rendererType": "dom",
+    "extensions.ignoreRecommendations": false,
+		"editor.insertSpaces": false,
+    "editor.detectIndentation": false,
+    "editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"peacock.favoriteColors": [
+		{
+			"name": "Angular Red",
+			"value": "#b52e31"
+		},
+		{
+			"name": "Auth0 Orange",
+			"value": "#eb5424"
+		},
+		{
+			"name": "Azure Blue",
+			"value": "#007fff"
+		},
+		{
+			"name": "C# Purple",
+			"value": "#68217A"
+		},
+		{
+			"name": "Gatsby Purple",
+			"value": "#639"
+		},
+		{
+			"name": "Go Cyan",
+			"value": "#5dc9e2"
+		},
+		{
+			"name": "Java Blue-Gray",
+			"value": "#557c9b"
+		},
+		{
+			"name": "JavaScript Yellow",
+			"value": "#f9e64f"
+		},
+		{
+			"name": "Mandalorian Blue",
+			"value": "#1857a4"
+		},
+		{
+			"name": "Node Green",
+			"value": "#215732"
+		},
+		{
+			"name": "React Blue",
+			"value": "#00b3e6"
+		},
+		{
+			"name": "Something Different",
+			"value": "#832561"
+		},
+		{
+			"name": "Vue Green",
+			"value": "#42b883"
+		}
+	],
+"liveshare.featureSet": "insiders",
+"files.exclude": {
+	"**/.classpath": true,
+	"**/.factorypath": true,
+	"**/.project": true,
+	"**/.settings": true,
+	"**/*.class": true
+}
+}

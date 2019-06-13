@@ -1,0 +1,44 @@
+Adonis.js Autocomplete - Yevhenii
+AMPScript - Agadzhanov Sergey
+Auto Close Tag - Jun Han
+Auto Rename Tag - Jun Han
+Beautify - Hooky 
+C/C++ - Microsoft
+C++ Intellisense - austin
+Code Runner - Jun Han
+CodeMetrics - Kiss Tamás
+Date & Time - rid9
+Debugger for Chrome - Microsoft
+Debugger for Java - Microsoft
+ESLint - Dirk Baeumer
+gitignore - CodeZombie
+GitLens -- Git supercharged - Eric Amodio
+HTML Preview - Thomas Haakon Townsend
+Java Dependency Viewer - Microsoft
+Java Extension Pack - Microsoft
+Java Test Runner - Microsoft
+Kanban - Marcel J. Kloubert
+Language Support for Java(TM) by Red Hat - Red Hat
+Live Share - Microsoft
+Live Share Audio - Microsoft
+Live Share Extension Pack - Microsoft
+Material Icon Theme - Philipp Klef
+Material Theme - Mattia Astorino
+Material Theme Icons - Mattia Astorino
+Maven for Java - Microsoft
+MySQL - Jun Han
+npm - egamma
+npm Intellisense - Christian Kohler
+Peacock - John Papa
+PHP Debug - Felix Becker
+PHP Extension Pack - Felix Becker
+PHP Intelephense - Ben Mewburn
+PHP IntelliSense - Felix Becker
+Portuguese (Brazil) Language Pack for Visual Studio Code - Microsoft
+Python - Microsoft
+Team Chat: for Slack, Discord, Live Share - Arjun Attam
+TSLint (deprecated) - egamma
+Vetur - Pine Wu
+Visual Studio IntelliCode - Microsoft
+vscode-faker - Budy Irawan
+JS Complexity Analysis - Tomi Turtiainen
